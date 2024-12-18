@@ -64,7 +64,7 @@
 
 ## CV
 - [Reactive Resume](https://rxresu.me/)
-- [Dashboard – FlowCV](https://app.flowcv.com/dashboard)
+- [FlowCV](https://app.flowcv.com/)
 
 ## Placeholder
 - [Placeholder SVG file Urls](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/)
