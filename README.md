@@ -20,9 +20,8 @@
 - [Flowbite - Build websites even faster with components on top of Tailwind CSS](https://flowbite.com/)
 - [cubic-bezier ✿ cubic-bezier.com](https://cubic-bezier.com/)
 - [MUI: The React component library you always wanted](https://mui.com/)
-- [Slider](https://ui.shadcn.com/)
+- [Shadcn](https://ui.shadcn.com/)
 - [NativeWind](https://www.nativewind.dev/)
-- [Remotion | Make videos programmatically in React](https://www.remotion.dev/)
 - [Tremor • Components](https://www.tremor.so/components)
 - [Rive - Build interactive animations that run anywhere](https://rive.app/)
 - [Ionic Framework - The Cross-Platform App Development Leader](https://ionicframework.com/)
@@ -51,12 +50,13 @@
 - [Color Designer - Simple Color Palette Generator](https://colordesigner.io/)
 
 ## Web Resources
-- [Products, Tools and Resources for Developers & Designers | Resource.fyi](https://resource.fyi/)
+- [Resource.fyi | Products, Tools and Resources for Developers & Designers](https://resource.fyi/)
 - [Open Source Alternatives To Proprietary Software](https://www.opensourcealternative.to/)
 - [freemediaheckyeah](https://fmhy.net/)
 
 ## Libraries & Frameworks
 - [useHooks – The React Hooks Library](https://usehooks.com/)
+- [Remotion | Make videos programmatically in React](https://www.remotion.dev/)
 - [Free Live Chat Software](https://www.tawk.to/)
 
 ## Image Hosting
