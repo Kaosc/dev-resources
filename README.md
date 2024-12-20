@@ -91,7 +91,7 @@
 - [Placeholder SVG file Urls](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/)
 
 ## Gaming & Social
-- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) C# application that allows you to farm steam cards using multiple steam accounts simultaneously
+- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) Farm steam cards using multiple steam accounts simultaneously
 - [undiscord](https://github.com/victornpb/undiscord) Delete all messages in a Discord channel or DM
 - [SekiroFpsUnlockAndMore](https://github.com/uberhalit/SekiroFpsUnlockAndMore) 
 
