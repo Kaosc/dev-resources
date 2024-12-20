@@ -58,6 +58,7 @@
 
 ## Image
 - [Photopea](https://github.com/photopea/photopea) Web-based Photoshop like image editor
+- [Postimages](https://postimages.org/) free image hosting / image upload
 
 ## Resources
 - [Resource.fyi](https://resource.fyi/) Products, Tools and Resources for Developers & Designers
@@ -78,9 +79,6 @@
 
 ## React Native
 - [Reactron](https://github.com/infinitered/reactotron) A desktop app for inspecting your React JS and React Native projects
-
-## Image Hosting
-- [Postimages](https://postimages.org/) free image hosting / image upload
 
 ## CV
 - [Reactive Resume](https://rxresu.me/) 
