@@ -33,7 +33,6 @@
 - [Radon IDE](https://ide.swmansion.com/) An IDE for React Native
 - [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/) Control Windows Defender
 - [Keystore Explorer](https://github.com/kaikramer/keystore-explorer) GUI replacement for the Java command-line utilities keytool, jarsigner and jadtool
-- [Freeter](https://github.com/FreeterApp/Freeter) The smartest way to work on your projects
 - [scrcpy](https://github.com/Genymobile/scrcpy) Display and control your Android device
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) Deep packet inspection bypass
 - [markitdown](https://github.com/microsoft/markitdown) Convert any file to markdown
