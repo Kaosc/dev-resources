@@ -71,6 +71,9 @@
 ## Frameworks
 - [Free Live Chat Software](https://www.tawk.to/)
 
+## Libs
+- [Sweetalert2](https://github.com/sweetalert2/sweetalert2) (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies
+
 ## React
 - [useHooks](https://usehooks.com/) The React Hooks Library
 - [Remotion](https://www.remotion.dev/) Make videos programmatically in React
