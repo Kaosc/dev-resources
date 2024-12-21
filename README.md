@@ -17,8 +17,8 @@
 - [public-apis](https://github.com/public-apis/public-apis) A collective list of free APIs for use in software and web development
 - [The Algorithms](https://the-algorithms.com/) Open Source Collection of Algorithms
 
-#### Playgrounds
-- [JS Playground](https://www.jsplayground.dev/) JavaScript playground
+### Playgrounds
+- [JS Playground](https://www.jsplayground.dev/) JavaScript playground 
 - [SQL Playground](https://sqlplayground.app/) SQL playground to write and run any MySQL, Postgres queries
 
 ### UI
