@@ -53,6 +53,7 @@
 - [FLEX](https://flexbox.malven.co/) A simple visual cheatsheet for flexbox
 - [CopyChar](https://copychar.cc) Copy special characters to your clipboard
 - [Color Designer](https://colordesigner.io/) Simple Color Palette Generator
+- [TailWind Skeleton Generator](https://skeletongenerator.com) Generate tailwind loading skeletons
 
 ### Image
 - [Postimages](https://postimages.org/) Free image hosting
