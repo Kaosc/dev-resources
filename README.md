@@ -67,3 +67,6 @@
 
 ### Placeholder
 - [Placeholder SVG file Urls](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/)
+
+### AI 
+- [Bolt.new](https://bolt.new/) Prompt, run, edit, and deploy full-stack web apps.
